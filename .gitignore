@@ -7,10 +7,10 @@
 UserSettings/
 Logs/
 UpgradeLog.htm
-*.csproj
-*.sln
-.vsconfig
-.vscode
+# *.csproj
+# *.sln
+# .vsconfig
+# .vscode
 !Assets/**/*~
 Assets/Unity.VisualScripting.Generated*
 Assets/Spatial/Temp*
